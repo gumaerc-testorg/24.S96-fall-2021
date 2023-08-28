@@ -18,7 +18,7 @@ DeGraff, Michel (2005). ["Linguists’ Most Dangerous Myth: The Fallacy of Creol
 
 **———** (2021). ["Toward Racial Justice in Linguistics: The Case of Creole Studies" (PDF)](http://lingphil.scripts.mit.edu/papers/degraff/DeGraff_2020_Racial_justice_in_Ceole%20studies.pdf). *Language* 96(4): e292–e306.
 
-**———** (2021). ["Creole Formation vs. Language Emergence in Homo Sapiens" (YouTube)](https://www.youtube.com/watch?v=b7UzUt8peRE). Keynote lecture at [@Protolang7](https://github.com/Protolang7) conference, September 6, 2021.
+**———** (2021). ["Creole Formation vs. Language Emergence in Homo Sapiens" (YouTube)](https://www.youtube.com/watch?v=b7UzUt8peRE). Keynote lecture at [@Protolang7](https://blogs.phil.hhu.de/protolang7/) conference, September 6, 2021.
 
 DeGraff, Michel, and Molly Ruggles (2014). ["A Creole Solution for Haiti’s Woes."](https://www.nytimes.com/2014/08/02/opinion/a-creole-solution-for-haitis-woes.html?smid=tw-share) *New York Times*, 1 August 2014.
 
